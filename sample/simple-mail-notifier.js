@@ -1,8 +1,8 @@
 var notifier = require('../index.js');
 
 var imap = {
-  user: "blackgenius9000@gmail.com",
-  password: "alechenu",
+  user: "example@test.com",
+  password: "password",
   host: "imap.gmail.com",
   port: 993, // imap port
   tls: true,// use secure connection
