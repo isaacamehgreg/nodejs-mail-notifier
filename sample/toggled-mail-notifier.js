@@ -13,8 +13,8 @@ function toggleState(){
 }
 
 var imap = {
-  user: "jerome.creignou",
-  password: "password",
+  user: "blackgenius9000@gmail.com",
+  password: "alechenu",
   host: "imap.host.com",
   port: 993, // imap port
   tls: true,// use secure connection
